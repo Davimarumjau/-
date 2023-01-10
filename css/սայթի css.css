@@ -1,0 +1,36 @@
+  h1{
+    color: rgb(0, 0, 0);
+    font-size: 100px;
+    text-align: center;
+    font-family:  'Birthstone', cursive;
+}   
+
+
+.sometext{
+
+    color: royalblue;
+    font-size: 20px;
+    text-align: center;
+    font-family:  'Birthstone', cursive;
+}
+
+h4{
+  color: rgb(59, 81, 148);
+  font-size: 30px;
+  text-align: center;
+  font-family:  'Birthstone', cursive;
+}   
+  
+.cont{
+
+  max-width: 2000px;
+  margin:0px auto;
+  padding:0px 15px;
+}
+
+body{
+
+  max-width: 2000px;
+  margin:0px auto;
+  padding:0px 15px
+}
